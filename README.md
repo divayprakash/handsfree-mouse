@@ -14,3 +14,9 @@ The device we created in this project uses an ADXL345 acceleromenter communicati
 ## Pin Diagram
 
 ![pinDiagram](./pinDiagram.png)
+
+## Team
+ - Divay Prakash
+ - Gautam Gupta
+ - Rishi Mohan
+ - Mentor : Dr. Alexander Fell
